@@ -9,5 +9,5 @@
 https://eventshome.netlify.app/
 <br><br>
 <h2>Screenshots</h2>
-<img src="https://eventshome.netlify.app/" alt="Event-home-screenshot">
+
 <img src="./images/Eventhome-screenshot.png" alt="Event-home-screenshot">
